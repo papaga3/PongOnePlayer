@@ -1,0 +1,3 @@
+﻿  Game.cpp
+d:\adventures\cppcode\basicsdl\basicsdl\game.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BasicSDL.vcxproj -> D:\adventures\CppCode\BasicSDL\bin\Win32\Debug\BasicSDL.exe
